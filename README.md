@@ -1,40 +1,53 @@
 # Ravi Dhir
 
-## Senior Data Science Engineer
+## Sr. AI ML Developer, Toronto ON
 
-Hello, I'm Ravi - an enthusiastic professional with over eight years of experience in data science, machine learning, and deep learning. With a keen interest in enabling computers to see just like humans, I specialize in Python coding, focusing on deep learning technologies. 
+Welcome to my GitHub! I'm Ravi, a data scientist and AI developer with a decade of experience transitioning from SQL development and data visualization to spearheading projects in Artificial Intelligence, Machine Learning, and especially in Natural Language Processing, Large Language Models, Computer Vision, and Graph Neural Networks.
 
-### 🚀 About Me
-I thrive on challenges and consistently achieve significant results where my peers and clients recognize me for my abilities. My career journey has been a blend of in-depth technical skills and leadership in projects requiring high-stakes decision-making and innovation.
+### 🌟 Professional Summary
 
-- 🌱 Currently, I am leading projects at Iris Software, focused on leveraging Deep Learning and OCR for Tabular Data Detection, and exploring Graph Neural Networks to detect relationships in contract-based data for Citi Bank.
-- 💼 Previous roles include Senior Data Engineer at Q3 Technologies and Associate Consultant at Saksoft Limited, where I crafted data solutions that propelled business decisions and insights.
+Currently based in Toronto, I've honed my skills in Python (Pandas, PyTorch), Graph Neural Networks, Data Warehousing, and the latest in AI technologies including transformers, MLOps, and LLMOps. I've played a pivotal role in advancing the AI landscape towards Artificial General Intelligence, fostering a future where technology amplifies human intelligence.
 
-### 🛠 Skills
-- Machine Learning, Deep Learning, Computer Vision
-- Data Visualization, Analytics, Warehousing
-- Python, Microsoft TSQL
-- Proficient in Microsoft BI suite, Tableau, and ETL jobs
+### 💼 Work History
 
-### 🎓 Education
-- Post Graduate Diploma in Artificial Intelligence and Machine Learning, The International Institute of Information Technology Bangalore, GPA: 3.52/4.0
+- **Sr. AI ML Developer at SSA Infosystems, Toronto** (Apr 2023 - Current)
+  - Spearheading GenAI projects for CitiBank, including a risk companion and a statistical data comparator using cutting-edge technologies like FAISS, LLMs, and FastAPI.
+- **Data Scientist at IRIS Software, India** (Apr 2020 - Feb 2023)
+  - Led the development of Citibank's C-Factor Project, utilizing YOLOv5, GNNs, and encoder-decoder models for data extraction and analysis.
+- Further roles at IRIS Software and Q3 Technologies showcased my ability to deliver BI and ML solutions, optimize business processes, and lead technical teams to success.
 
-### 💡 Certificates
-- Data Science Foundation | INSAID
-- Generative Adversarial Networks Specialization | Coursera
-- Fundamentals of Reinforcement Learning | Coursera | University of Alberta
-- And more...
+### 📚 Education
 
-### 🏆 Honor Awards
-- Round Of Applause, IRIS Software, for extraordinary performance in Citibank and Lord Abbet projects
-- Star Team Award, IRIS Software
-- iNovus Idea Lead, IRIS Software
-- Employee of the Quarter, Saksoft Limited
+- **Master of Science in Artificial Intelligence And Machine Learning**, Liverpool John Moore's University (80%)
+- **Bachelor of Technology in Computer Science And Engineering**, I.T.S Engineering College, India
 
-### 📬 Get In Touch
-- Email: [er.dr.rd@gmail.com](mailto:er.dr.rd@gmail.com)
-- LinkedIn: [linkedin.com/in/ravidhir91](https://linkedin.com/in/ravidhir91)
-- GitHub: [github.com/insculptor](https://github.com/insculptor)
+### 🏅 Certifications
 
-I am passionate about using data to solve real-world problems and am always eager to connect with other data professionals. Let's innovate together!
+- XCS224N - Natural Language Processing with Deep Learning, Stanford
+- Post Graduate Diploma in Machine Learning and AI, IIIT Bangalore
+- Fundamentals of Reinforcement Learning, University of Alberta (Coursera)
+
+### 🚀 Skills
+
+- Advanced proficiency in Language Modeling, Python (Pandas, PyTorch), and Graph Neural Networks
+- Deep knowledge in Transformers & Pretraining, MLOps & LLMOps, and Data Warehousing
+
+### 🎖 Accomplishments
+
+- Recognized as Team Champion for innovation, multiple "Employee of the Month/Quarter" awards
+- Key contributor to Pre-Sales Team, securing significant projects through Data Warehousing POCs
+- Conducted workshops on Python, Pandas, SQL, MLOps for employee skill enhancement
+
+### 🌍 Languages
+
+- English (Full Professional Proficiency)
+- Hindi (Native/Bilingual Proficiency)
+- French (Elementary Proficiency)
+
+### 📞 Contact Me
+
+- 📧 Email: [er.dr.rd@gmail.com](mailto:er.dr.rd@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/ravidhir91/](https://linkedin.com/in/ravidhir91/)
+
+I'm always on the lookout for innovative projects and collaborations that push the boundaries of AI and ML. Let's connect and explore the future of technology together!
 
