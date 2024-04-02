@@ -1,53 +1,47 @@
-# Ravi Dhir
+# Ravi Dhir - @insculptor
 
-## Sr. AI ML Developer, Toronto ON
+📍 Toronto, ON | ✉️ er.dr.rd@gmail.com | [LinkedIn](https://linkedin.com/in/ravidhir91/)
 
-Welcome to my GitHub! I'm Ravi, a data scientist and AI developer with a decade of experience transitioning from SQL development and data visualization to spearheading projects in Artificial Intelligence, Machine Learning, and especially in Natural Language Processing, Large Language Models, Computer Vision, and Graph Neural Networks.
+## Professional Summary
+With a decade of experience in Data, including nearly four years deeply immersed in Data Science, ML, AI, and a year of Canadian experience, my journey has evolved from SQL development and data visualization to leading innovative AI projects. A Liverpool University alum with a Master's in AI and ML, I have a strong foundation in NLP, Large Language Models (LLMs), Computer Vision, and Graph Neural Networks. I am passionate about advancing AI towards AGI, aiming for a future where technology complements human intelligence.
 
-### 🌟 Professional Summary
+## 🌟 Highlighted Project: [Complete RAG](https://github.com/insculptor/CompleteRAG)
+A comprehensive open-source demonstration of the Retrieval Augmented Generation (RAG) pipeline using FAISS and Gemma LLM, showcasing my commitment to innovation and practical application in AI.
 
-Currently based in Toronto, I've honed my skills in Python (Pandas, PyTorch), Graph Neural Networks, Data Warehousing, and the latest in AI technologies including transformers, MLOps, and LLMOps. I've played a pivotal role in advancing the AI landscape towards Artificial General Intelligence, fostering a future where technology amplifies human intelligence.
+## Skills
+- NLU/NLP, Deep Learning, Python (Pandas, PyTorch)
+- Transformers & Pretraining, MLOps & LLMOps, Statistical Modelling
 
-### 💼 Work History
+## Certifications
+- XCS224N - Natural Language Processing with Deep Learning, Stanford (2023)
+- PG Diploma in ML and AI, IIIT Bangalore (2018-2020)
+- Fundamentals of Reinforcement Learning, University of Alberta (Coursera, 2020)
 
-- **Sr. AI ML Developer at SSA Infosystems, Toronto** (Apr 2023 - Current)
-  - Spearheading GenAI projects for CitiBank, including a risk companion and a statistical data comparator using cutting-edge technologies like FAISS, LLMs, and FastAPI.
-- **Data Scientist at IRIS Software, India** (Apr 2020 - Feb 2023)
-  - Led the development of Citibank's C-Factor Project, utilizing YOLOv5, GNNs, and encoder-decoder models for data extraction and analysis.
-- Further roles at IRIS Software and Q3 Technologies showcased my ability to deliver BI and ML solutions, optimize business processes, and lead technical teams to success.
+## Work History
 
-### 📚 Education
+### Sr. AI ML Developer, SSA Infosystems (2023 - Present)
+- GenAI Risk Companion for Citibank, Data Comparator GPT, Analytics projects using Big Data.
+- Pioneered GenAI POC converting VBA Macros to Python; developed multiple MLOps and LLMOps pipelines.
 
-- **Master of Science in Artificial Intelligence And Machine Learning**, Liverpool John Moore's University (80%)
-- **Bachelor of Technology in Computer Science And Engineering**, I.T.S Engineering College, India
+### Data Scientist, IRIS Software, India (2020 - 2023)
+- Led the C-Factor Project for Citibank, specializing in Tabular Data Extraction using YOLOv5, GNNs.
+- Spearheaded MLOps CI/CD pipelines; created predictive models and NLU solutions for various clients.
 
-### 🏅 Certifications
+### Senior Technical Consultant, IRIS Software, India (2019 - 2020)
+- Reporting and Data Solutions for financial clients; data scraping, Python scripting, and data visualization.
 
-- XCS224N - Natural Language Processing with Deep Learning, Stanford
-- Post Graduate Diploma in Machine Learning and AI, IIIT Bangalore
-- Fundamentals of Reinforcement Learning, University of Alberta (Coursera)
+### Senior Data Engineer, Q3 Technologies, India (2018 - 2019)
+- BI and ML solutions for Michelin Tires; led data warehousing projects.
 
-### 🚀 Skills
+## Education
 
-- Advanced proficiency in Language Modeling, Python (Pandas, PyTorch), and Graph Neural Networks
-- Deep knowledge in Transformers & Pretraining, MLOps & LLMOps, and Data Warehousing
+### MSc in Artificial Intelligence and Machine Learning
+Liverpool John Moores University (2021) - Scored 80%
 
-### 🎖 Accomplishments
+### B.Tech in Computer Science and Engineering
+I.T.S Engineering College, India (2014)
 
-- Recognized as Team Champion for innovation, multiple "Employee of the Month/Quarter" awards
-- Key contributor to Pre-Sales Team, securing significant projects through Data Warehousing POCs
-- Conducted workshops on Python, Pandas, SQL, MLOps for employee skill enhancement
+---
 
-### 🌍 Languages
-
-- English (Full Professional Proficiency)
-- Hindi (Native/Bilingual Proficiency)
-- French (Elementary Proficiency)
-
-### 📞 Contact Me
-
-- 📧 Email: [er.dr.rd@gmail.com](mailto:er.dr.rd@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/ravidhir91/](https://linkedin.com/in/ravidhir91/)
-
-I'm always on the lookout for innovative projects and collaborations that push the boundaries of AI and ML. Let's connect and explore the future of technology together!
+I am always on the lookout for innovative projects and collaborations that push the boundaries of AI and ML. Let's connect!
 
