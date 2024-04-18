@@ -5,15 +5,18 @@
 ## Professional Summary
 With a decade of experience in Data, including nearly four years deeply immersed in Data Science, ML, AI, and a year of Canadian experience, my journey has evolved from SQL development and data visualization to leading innovative AI projects. A Liverpool University alum with a Master's in AI and ML, I have a strong foundation in NLP, Large Language Models (LLMs), Computer Vision, and Graph Neural Networks. I am passionate about advancing AI towards AGI, aiming for a future where technology complements human intelligence.
 
-## 🌟 Highlighted Project: [Complete RAG](https://github.com/insculptor/CompleteRAG)
-A comprehensive open-source demonstration of the Retrieval Augmented Generation (RAG) pipeline using FAISS and Gemma LLM, showcasing my commitment to innovation and practical application in AI.
+## 🌟 Latest Project: [Finsight RAG](https://github.com/insculptor/CompleteRAG](https://github.com/insculptor/FinsightRAG)
+- A comprehensive open-source demonstration of the Retrieval Augmented Generation (RAG) pipeline using FAISS and Gemma LLM.
+- Demonstrates a novel Technique - Mega Chunking to improve RAG performance.
+- Demonstrates the Use of a separate Metadata store to improve RAG performance.
 
 ## Skills
 - NLU/NLP, Deep Learning, Python (Pandas, PyTorch)
 - Transformers & Pretraining, MLOps & LLMOps, Statistical Modelling
 
 ## Certifications
-- XCS224N - Natural Language Processing with Deep Learning, Stanford (2023)
+- [XCS224N - Natural Language Processing with Deep Learning, Stanford (2023)](https://digitalcredential.stanford.edu/check/33B0B5B75DE02FF95A400D79ED231A90038F902BCB411EAD1F2347E3B13F861FcUM3QUFmYWlDM0JQNGdzTm96UnFzQWZsNTVycVhETHdhb014aGhSVGhmUHhZT1p3)
+  
 - PG Diploma in ML and AI, IIIT Bangalore (2018-2020)
 - Fundamentals of Reinforcement Learning, University of Alberta (Coursera, 2020)
 
